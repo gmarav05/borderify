@@ -3,4 +3,4 @@ Borderify is a firefox web extension which adds border to the website and also t
 
 ## Demo
 
-[](/borderify.png) 
+![](/borderify.png) 
